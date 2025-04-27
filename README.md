@@ -1,2 +1,1 @@
-I am learning Algorithms.
-考研🎾🎱🎧🧑‍💻
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71828&width=435&lines=I+am+learning+Algorithms.;+%E8%80%83%E7%A0%94%F0%9F%8E%BE%F0%9F%8E%B1%F0%9F%8E%A7%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
