@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71828&width=435&lines=I+am+learning+Algorithms.;+%E8%80%83%E7%A0%94%F0%9F%8E%BE%F0%9F%8E%B1%F0%9F%8E%A7%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=%E5%86%AC%E8%AE%AD%E8%82%AF%E5%90%83%E8%8B%A6+%E5%BC%80%E6%98%A5%E7%8C%9B%E5%A6%82%E8%99%8E;%F0%9F%92%AA%E5%A5%A5%E5%88%A9%E7%BB%99)](https://git.io/typing-svg)
